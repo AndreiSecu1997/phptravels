@@ -1,0 +1,4 @@
+com\asecu\filemanagers\PropertiesFileReader.class
+com\asecu\steps\Hooks.class
+com\asecu\TestRunner.class
+com\asecu\utils\WebDriverManager.class
